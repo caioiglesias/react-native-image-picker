@@ -1,4 +1,6 @@
 # React Native Image Picker
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcaioiglesias%2Freact-native-image-picker.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcaioiglesias%2Freact-native-image-picker?ref=badge_shield)
+
 
 A React Native module that allows you to select a photo/video from the device library or camera.
 
@@ -121,3 +123,6 @@ Image/video captured via camera will be stored in temporary folder so will be de
 ## License
 
 [MIT](LICENSE.md)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcaioiglesias%2Freact-native-image-picker.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcaioiglesias%2Freact-native-image-picker?ref=badge_large)
